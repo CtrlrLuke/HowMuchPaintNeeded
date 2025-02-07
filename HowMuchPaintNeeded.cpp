@@ -24,7 +24,7 @@ int main()
 
 	// display needed paint
 	cout << "You need " << paintNeededRoundedUp << " gallons of paint for two coats on a 6x100ft fence." << endl;
-
+	cout << "\nHello";
 	return 0;
 }
 
